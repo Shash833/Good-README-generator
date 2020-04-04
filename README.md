@@ -11,6 +11,6 @@ The user must first install Node.js on their computer to be able to use the READ
 After this is done, to use the application the user must clone the repository from GitHub and run the file on their terminal.
 
 ## Demo:
-![README.md-generator-demo](assets\readme-generator-demo.gif)
+![README.md-generator-demo](assets/readme-generator-demo.gif)
 
 
